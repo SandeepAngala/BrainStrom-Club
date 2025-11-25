@@ -1,0 +1,17 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
+}
